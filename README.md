@@ -48,13 +48,33 @@ Some might be Unreal Engine specific as we develop with that engine.
 
 [Free Sound](https://freesound.org/), free, industrial to amateur quality
 
-[FMA - Free Music Archive](https://freemusicarchive.org/), free, industrial to amateur quality, also paid components if required
+[FMA - Free Music Archive](https://freemusicarchive.org/), free, low to industrial quality, also paid components if required
+
+[Free PD | Soundtracks](https://freepd.com/), free
 
 ## Mesh
 
 [RuntimeMesh](https://github.com/TriAxis-Games/RuntimeMeshComponent) renders and edit meshes at runtime, MIT, integrates with UE
 
 [How to cut a mesh?](https://answers.unrealengine.com/questions/1013807/how-to-cut-custom-shape-in-mesh.html)
+
+[Megascans](https://quixel.com/), free with UE, photorealistic
+
+[Turbosquid](https://www.turbosquid.com/), free and paid, industrial quality for paid stuff, medium to industrial quality for free
+
+[MakeHumanCommunity](https://github.com/makehumancommunity/makehuman), free program to develop human characters, "cheap version" of meta humans
+
+## 2D Assets
+
+[Game-Icons.net](https://game-icons.net/), free, medium-low quality
+
+[Kenney.nl](https://kenney.nl/assets), free, very high quality tilesets, also some low-poly 3D assets for isometric views
+
+## Materials
+
+[Matcaps](https://github.com/nidorx/matcaps#matcaps), free
+
+[Megascans](https://quixel.com/), free with UE, photorealistic
 
 ## Game Design
 
@@ -66,8 +86,24 @@ Some might be Unreal Engine specific as we develop with that engine.
 
 [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 
+## Software
+
+[Bforartists | Blender For Artists](https://github.com/Bforartists/Bforartists), fork of Blender but targeting hobbists, up to date to the real Blender
+
 ## Misc
 
 [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects), free, project management
 
 [Markov process-based procedural name and word generator](https://github.com/Tw1ddle/MarkovNameGenerator)
+
+## Articles & Blogs
+
+[GameBackend.dev](https://www.gamebackend.dev)
+
+[Designer-Notes.com](https://www.designer-notes.com/), game design articles with god-tier level designers
+
+[Gamedevs.org](https://www.gamedevs.org/), various notes, must read
+
+[RealTimeRendering.com](https://www.realtimerendering.com/), free books
+
+[GDC Magazines](https://www.gdcvault.com/gdmag), free magazines with professional articles
