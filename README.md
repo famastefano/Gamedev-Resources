@@ -86,6 +86,8 @@ Some might be Unreal Engine specific as we develop with that engine.
 
 [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 
+[Assimp Open-Asset-Importer-Library](https://github.com/assimp/assimp), de facto standard for importing any mesh
+
 ## Software
 
 [Bforartists | Blender For Artists](https://github.com/Bforartists/Bforartists), fork of Blender but targeting hobbists, up to date to the real Blender
@@ -107,3 +109,5 @@ Some might be Unreal Engine specific as we develop with that engine.
 [RealTimeRendering.com](https://www.realtimerendering.com/), free books
 
 [GDC Magazines](https://www.gdcvault.com/gdmag), free magazines with professional articles
+
+[GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
