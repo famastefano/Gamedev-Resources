@@ -2,7 +2,7 @@
 
 ## Dot Product
 
-$\vec{v} \cdot \vec{w} = r,\ r \in \mathbb{R}$
+$\vec{v} \cdot \vec{w} = \cos{a}$
 
 ## Scalar Product
 
