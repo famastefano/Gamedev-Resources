@@ -5,6 +5,12 @@
 $\vec{v} \cdot \vec{w} = r$<br>
 $r \in \mathbb{R}$
 
+## Scalar Product
+
+$\vec{v} \times \vec{w} = \vec{z}$
+
+Where $\vec{z}$ is orthogonal to $\vec{v}$ and $\vec{w}$
+
 ## Magnitude of a vector
 $\mid \vec{v} \mid = \sqrt{ \vec{v} \cdot \vec{v} }$
 
