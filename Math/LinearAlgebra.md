@@ -12,3 +12,7 @@ $\mid \vec{v} \mid = \sqrt{ \vec{v} \cdot \vec{v} }$
 
 $a = \arccos{\frac{\vec{v} \cdot \vec{w}}{ \mid\vec{v}\mid \mid\vec{w}\mid }}$<br>
 $a = \arcsin{\frac{\vec{v} \times \vec{w}}{ \mid\vec{v}\mid \mid\vec{w}\mid }}$<br>
+
+## Check if vectors are parallel
+
+$\vec{v} \times \vec{w}=0$
