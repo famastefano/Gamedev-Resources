@@ -26,3 +26,8 @@ $\vec{v} \perp \vec{w} \iff \vec{v} \cdot \vec{w}=0$
 ## Direction of a vector
 
 $\vec{u}=\frac{\vec{v}}{\mid\vec{v}\mid}$
+
+## Sum of matrices
+
+$A^{i,j}+B^{i,j}=C^{i,j}$ valid only if they have the same rows and columns
+
