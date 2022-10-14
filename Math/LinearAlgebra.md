@@ -29,5 +29,16 @@ $\vec{u}=\frac{\vec{v}}{\mid\vec{v}\mid}$
 
 ## Sum of matrices
 
-$A^{i,j}+B^{i,j}=C^{i,j}$ valid only if they have the same rows and columns
+Valid only if they have the same columns and rows.
 
+$A^{mn}+B^{mn}=C^{mn}$
+
+$C_{kj} = A_{ij} + B_{ij}$
+
+## Product of matrices
+
+Valid only if the rows of $A$ are equals to the columns of $B$
+
+$A^{in} \cdot B^{nj} = C^{ij}$
+
+$A \cdot B$ is valid, while $B \cdot A$ isn't.
