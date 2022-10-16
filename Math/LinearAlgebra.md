@@ -2,7 +2,7 @@
 
 ## Dot Product
 
-$\vec{v} \cdot \vec{w} = \cos{a}$
+$\vec{v} \cdot \vec{w} = \mid\vec{v}\mid \mid\vec{w}\mid\cos{a}$
 
 ## Scalar Product
 
